@@ -16,6 +16,7 @@ I'm working with these frameworks:
 - FastAPI
 - Git
 - SQL
+- Gunicorn/Nginx
 
 If you require any further information, feel free to  contact me 2173045@gmail.com 💬
 
