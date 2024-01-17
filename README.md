@@ -5,7 +5,6 @@
 
 
 Hi! I'm Igor and I am a python developer. 
-My development experience is more than 1 year.
 
 I'm working with these frameworks:
 - Python
@@ -18,5 +17,5 @@ I'm working with these frameworks:
 - SQL
 - Gunicorn/Nginx
 
-If you require any further information, feel free to  contact me 2173045@gmail.com 💬
+ contact me 2173045@gmail.com 💬
 
